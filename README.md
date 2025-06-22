@@ -28,11 +28,6 @@ This diagram gives you a visual summary of all the topics included:
 Each `.ipynb` file corresponds to a topic.
 You can run them individually in JupyterLab or VS Code.
 
-## 📊 Data Files
-
-- `students.csv` – sample data for practice
-- `example.txt` – used in file reading/writing exercises
-
 ---
 
 Feel free to clone and explore the notebooks interactively!  
